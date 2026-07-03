@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Siddhi
 
-**siddhi885/siddhi885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
 🎓 B.Tech Computer Science (AI & ML) Student at NIU X NIAT.
 
 💻 Passionate about Software Engineering, Artificial Intelligence, and building real-world applications
