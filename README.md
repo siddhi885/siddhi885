@@ -12,7 +12,7 @@
 ### 🚀 Aspiring Software Engineer • AI Enthusiast • Full-Stack Learner
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Learning+Data+Structures+%26+Algorithms;Passionate+About+Software+Engineering;Future+Microsoft+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Learning+Data+Structures+%26+Algorithms;Passionate+About+Software+Engineering;"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=siddhi885&label=Profile+Views&color=0e75b6&style=flat"/>
