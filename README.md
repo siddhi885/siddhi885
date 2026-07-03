@@ -47,13 +47,12 @@
 
 🏆 OpenAI × NxtWave Buildathon Participant
 
-🎯 Goal: Become a Software Engineer at Microsoft and build impactful AI products.
-
+🎯 Goal: Building AI-powered applications • Exploring Full-Stack Development • Solving Real-World Problems.
 </td>
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="https://i.pinimg.com/736x/11/c1/57/11c157dfb8b83e1aad065cb3f7fee52d.jpg" width="100%">
 
 </td>
 
