@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1>Hi 👋, I'm Siddhi</h1>
@@ -15,7 +14,7 @@ Passionate about building real-world applications, solving DSA problems, and exp
 
 ---
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science (AI & ML) Student
 - 🌱 Currently learning C++, DSA, React, SQL & AI/ML
@@ -25,7 +24,7 @@ Passionate about building real-world applications, solving DSA problems, and exp
 
 ---
 
-## 🛠️ Languages & Tools
+🛠️ Languages & Tools
 
 <p align="left">
 
@@ -69,10 +68,10 @@ Passionate about building real-world applications, solving DSA problems, and exp
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-💊 MedSafe
-- Medicine verification & reminder application
+KrishiMitra AI
+-AI assistant for farmers providing crop guidence and agriculture support.
 
 🌐 Modern Coaching Website
 - Responsive website for educational institutes
@@ -135,4 +134,129 @@ Passionate about building real-world applications, solving DSA problems, and exp
 ⭐ *"Consistency compounds. Every small project and every solved problem brings me one step closer to becoming a better engineer."*
 
 </div>
+<div align="center">
+
+<img src="YOUR_BANNER_LINK" width="100%">
+
+# Hi 👋, I'm Siddhi
+
+### 💻 B.Tech CSE (AI & ML) Student @ NxtWave Institute of Advanced Technologies (NIAT)
+
+### 🚀 Aspiring Software Engineer • AI Enthusiast • Full-Stack Learner
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Learning+Data+Structures+%26+Algorithms;Passionate+About+Software+Engineering;Future+Microsoft+Software+Engineer"/>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=siddhi885&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+# 🧠 Know About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+### Hey there! 👋
+
+🎓 B.Tech Computer Science (AI & ML) student at NxtWave Institute of Advanced Technologies (NIAT)
+
+💻 Passionate about Artificial Intelligence, Software Engineering and Full Stack Development.
+
+🌱 Currently learning
+
+- C++
+- Data Structures & Algorithms
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- SQL
+- AI & ML
+
+🏆 OpenAI × NxtWave Buildathon Participant
+
+🌾 Creator of KrishiMitra AI
+
+💊 Built MedSafe, an AI healthcare application
+
+🎯 Goal: Become a Software Engineer at Microsoft and build impactful AI products.
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌾 KrishiMitra AI | AI-powered assistant helping Indian farmers with crop guidance and agricultural support. |
+| 🌐 Coaching Websites | Modern responsive websites designed for local coaching institutes. |
+| 📚 DSA Journey |  C++ learning progress. |
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddhi885&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi885&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=siddhi885&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> *(
+
 
