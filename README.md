@@ -2,9 +2,7 @@
 
 🎓 B.Tech Computer Science (AI & ML) Student at NIU X NIAT.
 
-💻 Passionate about Software Engineering, Artificial Intelligence, and building real-world applications
-
-Here are some ideas to get you started:
+💻 Passionate about Software Engineering, Artificial Intelligence, and building real-world applications.
 
 - 🔭 I’m currently working on:
 - Data Structures & Algorithms (C++)
