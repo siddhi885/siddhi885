@@ -3,7 +3,8 @@
 </div>
 <div align="center">
 
-<img src="YOUR_BANNER_LINK" width="100%">
+<img src="<img width="1280" height="508" alt="image" src="https://github.com/user-attachments/assets/21d1f3e1-a577-409b-99fb-760205dd9bd5" />
+" width="100%">
 
 # Hi 👋, I'm Siddhi
 
